@@ -2,6 +2,7 @@
 
 [![Build Status](https://travis-ci.org/euskadi31/FacebookServiceProvider.svg?branch=master)](https://travis-ci.org/euskadi31/FacebookServiceProvider)
 [![SensioLabsInsight](https://insight.sensiolabs.com/projects/971dff41-735f-49c8-8841-b079830c3801/mini.png)](https://insight.sensiolabs.com/projects/971dff41-735f-49c8-8841-b079830c3801)
+[![Coverage Status](https://coveralls.io/repos/euskadi31/FacebookServiceProvider/badge.svg?branch=master&service=github)](https://coveralls.io/github/euskadi31/FacebookServiceProvider?branch=master)
 
 ## Install
 
