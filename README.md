@@ -1,8 +1,7 @@
 # Silex Facebook Service Provider
 
 [![Build Status](https://travis-ci.org/euskadi31/FacebookServiceProvider.svg?branch=master)](https://travis-ci.org/euskadi31/FacebookServiceProvider)
-[![SensioLabsInsight](https://insight.sensiolabs.com/projects/2c558cf6-6607-4eba-a1c1-08f60e1d14ae/mini.png)](https://insight.sensiolabs.com/projects/2c558cf6-6607-4eba-a1c1-08f60e1d14ae)
-
+[![SensioLabsInsight](https://insight.sensiolabs.com/projects/971dff41-735f-49c8-8841-b079830c3801/mini.png)](https://insight.sensiolabs.com/projects/971dff41-735f-49c8-8841-b079830c3801)
 
 ## Install
 
